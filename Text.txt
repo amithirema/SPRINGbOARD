@@ -8,4 +8,4 @@ this is my first test
 this is my first test
 this is my first test
 
-inally its done
+finally its done
